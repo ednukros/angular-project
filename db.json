@@ -16,14 +16,15 @@
         },
         {
             "id": 2,
-            "name": "",
-            "image": "",
-            "imageDetail": [""],
-            "enlace": "",
+            "name": "Asia Gardens Hotel & Thai Spa",
+            "image": "https://okdiario.com/coolthelifestyle/img/2021/12/09/princi-ok-1.jpg",
+            "imageDetail": ["https://static-new.lhw.com/HotelImages/Final/LW1436/lw1436_76482994_960x540.jpg", "https://www.asiagardens.es/res/uploads/20151204145559-02-habdeluxe-supgaleria-1800x7004.jpg","https://www.asiagardens.es/res/uploads/20151206111833-05-habsuite-bangaleria-1800x7001.jpg"],
+            "enlace": "https://www.barcelo.com/es-es/asia-gardens-hotel-thai-spa-a-royal-hideaway-hotel/?id_hotel_sem=7326&gclid=CjwKCAiArY2fBhB9EiwAWqHK6si-_KYhYh3apYiiCBGzObhcwg660_4IkrA3N42KpDelC0NjUZsBsxoCHBEQAvD_BwE&nclid=AZH5b4SP-BWUPfCW8t2-Sr3TX1KTTF3X3wZlLfkp_DkEOPpfmSZe7pIgQ7wKmOKd",
             "description": "",
-            "ubication": "",
-            "rating": ,
-            "pricePerNight": ,
+            "ubication": "https://www.google.es/maps/place/Asia+Gardens+Hotel+%26+Thai+Spa/@38.5533058,-0.1730025,17z/data=!3m1!4b1!4m8!3m7!1s0xd621b6bdf8d175f:0xafccb5fcc9f6e93e!5m2!4m1!1i2!8m2!3d38.5533016!4d-0.1708138?hl=es",
+            "stars": 5 ,
+            "rating": 4.6,
+            "pricePerNight": 360 ,
             "capacity": ""
 
         },
