@@ -28,16 +28,17 @@
 
         },
         {
-            "id": 2,
-            "name": "",
-            "image": "",
-            "imageDetail": [""],
-            "enlace": "",
-            "description": "",
-            "ubication": "",
-            "rating": ,
-            "pricePerNight": ,
-            "capacity": ""
+            "id": 3,
+            "name": "Port Aventura World River",
+            "image": "https://www.booking.com/hotel/es/portaventura-r-gold-river.es.html?aid=318615&label=New_Spanish_ES_ES_21463012105-LPwjRe8TaU%2Ats8W_n17MsAS217272873548%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&sid=b702bd9df9aa61ab59b40b87b90c52b8&dest_id=-400284;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1675887026;srpvid=894f8dd85f7401a9;type=total;ucfs=1&#",
+            "imageDetail": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/63154259.jpg?k=ccf16c1f1bf0a118e04cd25656ebbfb6c9094940790d2d412217a1f4f06f6650&o=", "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131650430.jpg?k=bf810f764e41d37d46df6fdc38498c9049490984eea7f60731d2223d5984fab2&o=","https://cf.bstatic.com/xdata/images/hotel/max1024x768/63154273.jpg?k=8d12961ef440bc5fdf8f9c2eb3617a79647d99a001fbd14d5c0e6ff4f5829552&o="],
+            "enlace": "https://www.portaventuraworld.com/hoteles/port-aventura",
+            "description": "Hotel feo y cutre por el que pagas una pasta debido a que está al lado del parque de Port Aventura, puedes saltar desde la ventana de la habitación directamente al DragonKan",
+            "ubication": "https://www.google.es/maps/search/portaventura+gold+river/@41.0919702,1.1521963,17z/data=!3m1!4b1?hl=es",
+            "stars":1.5,
+            "rating": 2.6 ,
+            "pricePerNight": 250,
+            "capacity": "26"
 
         },
         {
