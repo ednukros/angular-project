@@ -1,0 +1,57 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "VIVOOD BENIMANTELL",
+            "image": "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1289946.jpg",
+            "imageDetail": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/179108827.jpg?k=181dc283919dfe2a3023dde2399be9af1fc4ac5b3ec1d9219d0cac21d4782e26&o=&hp=1", "https://vivood.com/vivood/imagenes/ba%C3%B1o-piscina-villa.jpg", "https://www.myboutiquehotel.com/photos/108118/vivood-landscape-hotel-5e-spa-adults-only-benimantell-062-51691-1110x700.jpg"],
+            "enlace": "https://www.vivood.com/?_gl=1%2A156lvxg%2A_ga%2AMTcxMTAyOTc3MC4xNjc1ODg1NTI2%2A_ga_MDSCBELG6M%2AMTY3NTg4NTUyNi4xLjAuMTY3NTg4NTUyNi42MC4wLjA.",
+            "description": "",
+            "ubication": "https://www.google.es/maps/place/Vivood+Landscape+Hotel/@38.6797459,-0.2063612,17z/data=!3m1!4b1!4m8!3m7!1s0xd61f64231b5e677:0x2cd1c5f81d1ebc70!5m2!4m1!1i2!8m2!3d38.6797586!4d-0.2041886?hl=es",
+            "stars": 4,
+            "rating": 4.6,
+            "pricePerNight": 126,
+            "capacity": ""
+
+        },
+        {
+            "id": 2,
+            "name": "",
+            "image": "",
+            "imageDetail": [""],
+            "enlace": "",
+            "description": "",
+            "ubication": "",
+            "rating": ,
+            "pricePerNight": ,
+            "capacity": ""
+
+        },
+        {
+            "id": 2,
+            "name": "",
+            "image": "",
+            "imageDetail": [""],
+            "enlace": "",
+            "description": "",
+            "ubication": "",
+            "rating": ,
+            "pricePerNight": ,
+            "capacity": ""
+
+        },
+        {
+            "id": 2,
+            "name": "",
+            "image": "",
+            "imageDetail": [""],
+            "enlace": "",
+            "description": "",
+            "ubication": "",
+            "rating": ,
+            "pricePerNight": ,
+            "capacity": ""
+
+        },
+    ]
+}
